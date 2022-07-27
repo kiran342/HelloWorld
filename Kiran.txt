@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D6CE-DD74
+
+ Directory of C:\Users\user\Desktop\Kiran
+
+07/27/2022  03:25 PM    <DIR>          .
+07/27/2022  03:25 PM    <DIR>          ..
+07/27/2022  03:03 PM               471 Hello.class
+07/27/2022  12:32 PM               151 Hello.java
+07/27/2022  03:25 PM                 0 Kiran.txt
+               3 File(s)            622 bytes
+               2 Dir(s)  98,823,180,288 bytes free
